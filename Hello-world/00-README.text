@@ -1,0 +1,5 @@
+The purpose of this directory is to provide sources and a precompiled
+version of a "Hello, world" program to test that Ell-i works.
+
+Here are hex and bin files which are ready for flashing (at address
+08000000).
